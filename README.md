@@ -1,6 +1,6 @@
 # User Agent Spoof Extension
 
-This browser extension spoofs the User Agent string for all websites except those added to a whitelist. This can help with privacy by making your browser more difficult to fingerprint.
+This browser extension spoofs the User Agent string for all websites except those added to a whitelist. This can help with privacy by making your browser more difficult to fingerprint, and also circumvent certain restrictions.
 
 ## Installation
 
